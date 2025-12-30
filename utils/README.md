@@ -1,0 +1,1 @@
+To run the convert-chapter.ps1 script on mac: `pwsh convert-chapter.ps1 -FolderName "assignments"`
