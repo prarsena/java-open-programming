@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapter-01-computer-fun/md/1.4-why-java.md",
+                "file": "retro-notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4-why-java"
+              "title": "retro-notes"
+            }
+          },
+          {
+            "id": "bab281469f739aac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "other-diversions/annotations-and-reflection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "annotations-and-reflection"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "other-diversions/annotations-and-reflection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for annotations-and-reflection"
             }
           },
           {
@@ -154,20 +170,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "other-diversions/annotations-and-reflection.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of annotations-and-reflection"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,12 +199,41 @@
   },
   "active": "093baf75fa802c6a",
   "lastOpenFiles": [
-    "java25.md",
-    "chapter-01-computer-fun/md/1.3-programming-env.md",
-    "chapter-01-computer-fun/md/1.2-programming-lang.md",
-    "chapter-01-computer-fun/md/1.1-computer-systems.md",
-    "retro-notes.md",
-    "chapter-01-computer-fun/md/chapter-01-computer-fun.md",
-    "chapter-01-computer-fun/md/1.0-Introduction.md"
+    "misc-ignore/pdf/python.pdf",
+    "misc-ignore/pdf/misc.pdf",
+    "misc-ignore/md/streamlit.md",
+    "misc-ignore/md/python.md",
+    "misc-ignore/md/python-web-requests.md",
+    "misc-ignore/md/misc.md",
+    "misc-ignore/md/lambdas.md",
+    "misc-ignore/md/functions.md",
+    "misc-ignore/md/dictionaries.md",
+    "misc-ignore/html/streamlit.html",
+    "misc-ignore/html/python.html",
+    "misc-ignore/html/python-web-requests.html",
+    "misc-ignore/html/misc.html",
+    "misc-ignore/html/lambdas.html",
+    "misc-ignore/html/functions.html",
+    "misc-ignore/html/dictionaries.html",
+    "misc-ignore/pdf",
+    "misc-ignore/md",
+    "other-diversions/analyze-java.md",
+    "other-diversions/ai-essay.md",
+    "other-diversions/ai-and-java.md",
+    "chapter-03-decisions-decisions/md/3.2-if-else-if-else.md",
+    "other-diversions/functional-java.md",
+    "other-diversions/tools.md",
+    "other-diversions/optional-and-named-arguments.md",
+    "other-diversions/http-garden.md",
+    "other-diversions/security-in-java.md",
+    "other-diversions/remote-method-invocation.md",
+    "other-diversions/git-and-github.md",
+    "other-diversions/prof-endorsed-sites.md",
+    "other-diversions/socket-programming.md",
+    "other-diversions/modules-and-packages.md",
+    "other-diversions/recreational-program-for-fun-and-profit.md",
+    "other-diversions/java-native-interface.md",
+    "other-diversions/annotations-and-reflection.md",
+    "other-diversions/app-ideas.md"
   ]
 }
